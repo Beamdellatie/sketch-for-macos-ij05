@@ -1,4 +1,4 @@
-
+automatic Figma for macOS Preset | export to SVG + batch processing offers the most advanced Figma for macOS preset, with export to SVG and batch processing. Ideal for
 
 
 
